@@ -1,9 +1,9 @@
-package org.example.jni.service;
+package org.example.grpc.service;
 
 import ma.glasnost.orika.MapperFacade;
 import org.example.NMVnext.GRPCBook;
 import org.example.NMVnext.NMAPIBookServiceGrpc;
-import org.example.jni.model.Book;
+import org.example.grpc.model.Book;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

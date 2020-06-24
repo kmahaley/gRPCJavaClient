@@ -1,11 +1,10 @@
-package org.example.jni.config;
+package org.example.grpc.config;
 
 
 import io.grpc.ManagedChannel;
 import io.grpc.ManagedChannelBuilder;
 import org.example.NMVnext.NMAPIBookServiceGrpc;
-import org.example.jni.properties.GRPCProperties;
-import org.springframework.boot.context.properties.EnableConfigurationProperties;
+import org.example.grpc.properties.GRPCProperties;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

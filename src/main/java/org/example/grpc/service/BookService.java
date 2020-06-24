@@ -1,6 +1,6 @@
-package org.example.jni.service;
+package org.example.grpc.service;
 
-import org.example.jni.model.Book;
+import org.example.grpc.model.Book;
 import org.springframework.stereotype.Service;
 
 import java.util.HashMap;

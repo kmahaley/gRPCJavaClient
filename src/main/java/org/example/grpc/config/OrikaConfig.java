@@ -1,10 +1,10 @@
-package org.example.jni.config;
+package org.example.grpc.config;
 
 import ma.glasnost.orika.MapperFacade;
 import ma.glasnost.orika.MapperFactory;
 import ma.glasnost.orika.impl.DefaultMapperFactory;
 import org.example.NMVnext.GRPCBook;
-import org.example.jni.model.Book;
+import org.example.grpc.model.Book;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

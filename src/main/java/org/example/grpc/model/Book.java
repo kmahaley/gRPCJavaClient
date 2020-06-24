@@ -1,4 +1,4 @@
-package org.example.jni.model;
+package org.example.grpc.model;
 
 import lombok.Data;
 

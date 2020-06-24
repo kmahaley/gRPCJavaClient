@@ -7,7 +7,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>book</name>
+    <name>gRPCJavaClient</name>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -17,7 +17,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <start-class>org.example.jni.App</start-class>
+        <start-class>org.example.grpc.App</start-class>
         <!--<java.version>1.7</java.version>-->
         <lombok.version>1.18.0</lombok.version>
     </properties>

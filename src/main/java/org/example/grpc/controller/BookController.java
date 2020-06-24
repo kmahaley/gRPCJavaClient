@@ -1,9 +1,7 @@
-package org.example.jni.controller;
+package org.example.grpc.controller;
 
-import lombok.Data;
-import org.example.jni.model.Book;
-import org.example.jni.service.BookService;
-import org.example.jni.service.GRPCNMBookService;
+import org.example.grpc.model.Book;
+import org.example.grpc.service.GRPCNMBookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,4 +1,4 @@
-package org.example.jni;
+package org.example.grpc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

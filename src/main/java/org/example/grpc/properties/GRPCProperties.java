@@ -1,4 +1,4 @@
-package org.example.jni.properties;
+package org.example.grpc.properties;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

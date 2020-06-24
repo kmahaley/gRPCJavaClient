@@ -1,4 +1,4 @@
-package org.example.jni.config;
+package org.example.grpc.config;
 
         import org.springframework.context.annotation.Bean;
         import org.springframework.context.annotation.Configuration;
